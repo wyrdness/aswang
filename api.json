@@ -1,10 +1,8 @@
 {
-  "category": "SHAPESHIFTER_UNDEAD",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/aswang",
     "maintainers": [
       {
@@ -18,384 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "aswang",
     "name": "Aswang",
-    "aliases": [
-      {
-        "name": "Manananggal",
-        "language": "Tagalog",
-        "region": "Philippines",
-        "meaning": "Self-segmenter, specific type that detaches upper torso"
-      },
-      {
-        "name": "Tik-tik",
-        "language": "Filipino",
-        "meaning": "Named for the sound it makes"
-      },
-      {
-        "name": "Wak-wak",
-        "language": "Filipino",
-        "region": "Visayas",
-        "meaning": "Named for bat-like cry"
-      }
-    ],
+    "aliases": [],
     "category": "SHAPESHIFTER_UNDEAD",
-    "subcategory": "Filipino Vampire",
+    "subcategory": "Shapeshifter",
     "tags": [
-      "shapeshifter",
-      "vampire",
-      "ghoul",
-      "philippine-folklore",
-      "nocturnal",
-      "blood-drinker",
-      "regional-variants"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "Filipino shapeshifting vampire/ghoul creature that appears human by day but transforms into a monster at night. Feeds on unborn children, organs, and blood using a long proboscis-like tongue.",
-      "full": "The aswang is one of the most feared creatures in Philippine folklore, a shapeshifting being that lives as a human during the day but becomes a monstrous predator at night. Aswang exist in multiple forms across different Philippine regions: blood-suckers, viscera suckers, weredogs, witches, and ghouls. They possess abilities including shapeshifting into dogs, pigs, or birds, sound reversal (appearing far when close), and in some variants, the ability to detach their upper torso to fly. Aswang particularly target pregnant women and their unborn children, feeding through a long, hollow, proboscis-like tongue. Detection methods include eyes that reflect inverted images, aversion to garlic and salt, and coconut oil revealing their identity. The aswang remains a source of genuine fear in rural Philippine communities and represents deep-rooted cultural beliefs about evil, protection, and the supernatural."
+      "summary": "The aswang is one of the most feared creatures in Philippine folklore, a shapeshifting being that lives as a human during the day but becomes a monstrous predator at night.",
+      "full": "The aswang is one of the most feared creatures in Philippine folklore, a shapeshifting being that lives as a human during the day but becomes a monstrous predator at night. Aswang exist in multiple forms across different Philippine regions: **blood-suckers**, **viscera suckers**, **weredogs**, **witches**, and **ghouls**. They possess abilities including shapeshifting into dogs, pigs, or birds, **sound reversal** (appearing far when close), and in some variants, the ability to **detach their upper torso** to fly. Aswang particularly target pregnant women and their unborn children, feeding through a long, hollow, **proboscis-like tongue**. The aswang remains a source of genuine fear in rural Philippine communities and represents deep-rooted cultural beliefs. > ⚠️ **CULTURAL SENSITIVITY**: Aswang beliefs are part of living Filipino folk tradition. These are not merely entertainment but reflect genuine cultural fears and protective practices."
     },
     "etymology": {
-      "origin": "The term likely derives from Sanskrit 'asura' (demon) via Malay influence, though exact origins are debated",
-      "meaning": "General term for various evil shapeshifting creatures in Philippine folklore",
-      "first_use": "Pre-colonial oral traditions"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "SHAPESHIFTER_UNDEAD",
-      "type": "Vampire/Ghoul",
-      "subtype": "Shapeshifter",
-      "variant": "Filipino"
+      "type": "Shapeshifter",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "vampires",
-        "name": "Vampires",
-        "relationship": "similar",
-        "description": "European blood-drinking undead"
-      },
-      {
-        "id": "pontianak",
-        "name": "Pontianak",
-        "relationship": "regional_variant",
-        "description": "Malaysian/Indonesian vampire ghost"
-      },
-      {
-        "id": "werewolves",
-        "name": "Werewolves",
-        "relationship": "similar",
-        "description": "Shapeshifting creatures"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "forms": [
-        {
-          "type": "Human (daytime)",
-          "description": "Appears as normal human, often attractive, living ordinary life",
-          "frequency": "always"
-        },
-        {
-          "type": "Monster (nighttime)",
-          "description": "Transforms into predatory creature with elongated tongue",
-          "frequency": "always"
-        },
-        {
-          "type": "Dog form",
-          "description": "Large black dog, most common animal transformation",
-          "frequency": "common"
-        },
-        {
-          "type": "Pig or bird",
-          "description": "Alternative animal transformations",
-          "frequency": "occasional"
-        }
-      ],
-      "features": [
-        {
-          "feature": "Proboscis tongue",
-          "description": "Long, hollow, thread-like tongue used to feed on victims",
-          "frequency": "always"
-        },
-        {
-          "feature": "Inverted reflection",
-          "description": "Eyes reflect images upside-down in mirrors",
-          "frequency": "always"
-        },
-        {
-          "feature": "Detachable torso",
-          "description": "Upper body separates to fly (manananggal variant)",
-          "frequency": "variant"
-        },
-        {
-          "feature": "Wings",
-          "description": "Bat-like wings in some forms",
-          "frequency": "occasional"
-        }
-      ],
-      "morphology": "Human appearance by day. At night, may grow wings, elongate tongue, or completely transform into animal. Manananggal variant splits at waist."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Shapeshifting",
-        "description": "Transform into dogs, pigs, birds, or other animals",
-        "frequency": "always",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Sound reversal",
-        "description": "Sounds loud when far away, quiet when nearby",
-        "frequency": "always",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Torso separation",
-        "description": "Upper body detaches to fly while lower half remains hidden",
-        "frequency": "variant",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Enhanced strength",
-        "description": "Superhuman strength in monster form",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Flight",
-        "description": "Ability to fly, especially in manananggal form",
-        "frequency": "common",
-        "evidence_level": "documented"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "hostile",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "rural villages",
-        "forest edges",
-        "among human communities"
-      ],
-      "diet": "Unborn children (primary), blood, internal organs",
-      "patterns": [
-        "Lives as human by day",
-        "Hunts at night",
-        "Targets pregnant women",
-        "Feeds on fetuses and organs",
-        "Returns to hidden lower torso before dawn (manananggal)"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Throughout the Philippines with regional variations in form and behavior",
-      "continents": ["Asia"],
-      "countries": ["Philippines"],
-      "regions": [
-        "Visayas",
-        "Mindanao",
-        "Luzon",
-        "Capiz (considered aswang capital)",
-        "Siquijor Island"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Capiz Province",
-        "location": {
-          "description": "Western Visayas region",
-          "country": "Philippines",
-          "region": "Western Visayas",
-          "coordinates": {
-            "latitude": 11.3889,
-            "longitude": 122.6277
-          }
-        },
-        "significance": "Known as the 'Aswang Capital of the Philippines'",
-        "notes": "Strongest concentration of aswang folklore and reported sightings"
-      },
-      {
-        "name": "Siquijor Island",
-        "location": {
-          "description": "Island province in Central Visayas",
-          "country": "Philippines",
-          "region": "Central Visayas",
-          "coordinates": {
-            "latitude": 9.2000,
-            "longitude": 123.6000
-          }
-        },
-        "significance": "Associated with witchcraft and aswang activity",
-        "notes": "Tourism based on mystical reputation"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-colonial",
+        "date": "Unknown",
         "circa": true,
-        "source": "Oral traditions predating Spanish colonization"
-      },
-      "modern_presence": "Active belief in rural areas, cultural presence in films, literature, urban legends"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Pre-colonial Philippine animistic beliefs, possibly influenced by Sanskrit/Malay mythology. Evolved through Spanish colonial period with Christian overlay.",
-      "earliest_accounts": "Oral traditions, formalized during Spanish colonial documentation",
-      "folklore_connections": "Related to broader Southeast Asian vampire mythology and shapeshifter traditions"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-1500s",
-        "event": "Pre-colonial oral traditions",
-        "significance": "Aswang beliefs exist in indigenous Philippine cultures",
-        "source": "Oral tradition"
-      },
-      {
-        "date": "1589",
-        "event": "Spanish colonial documentation",
-        "significance": "First written accounts by Spanish missionaries",
-        "source": "Colonial records"
-      },
-      {
-        "date": "20th century",
-        "event": "Modern folklore consolidation",
-        "significance": "Aswang stories collected and published",
-        "source": "Folklore studies"
-      },
-      {
-        "date": "1990s-present",
-        "event": "Popular culture boom",
-        "significance": "Numerous Filipino films and TV shows featuring aswang",
-        "source": "Media"
-      }
-    ],
-    "modern_era": "Aswang remain part of living folklore in rural Philippines. Urban legends persist, and the creature is featured prominently in Filipino horror films, TV shows, and literature. Genuine fear exists in some communities."
+    "timeline": []
   },
-
-  "detection": {
-    "methods": [
-      {
-        "method": "Inverted eye reflection",
-        "description": "Eyes reflect images upside-down in mirrors or water",
-        "reliability": "high"
-      },
-      {
-        "method": "Garlic and salt",
-        "description": "Aswang are repelled by garlic and salt",
-        "reliability": "medium"
-      },
-      {
-        "method": "Coconut oil test",
-        "description": "Special oil concoction can reveal aswang identity",
-        "reliability": "medium"
-      },
-      {
-        "method": "Buntot pagi (stingray tail)",
-        "description": "Dried stingray tail can detect or ward off aswang",
-        "reliability": "traditional"
-      },
-      {
-        "method": "Sound reversal",
-        "description": "Tik-tik or wak-wak sounds loud when far, quiet when close",
-        "reliability": "high"
-      }
-    ],
-    "protection": [
-      "Garlic placed around windows and doors",
-      "Salt sprinkled on thresholds",
-      "Holy items (crosses, rosaries)",
-      "Ginger, buntot pagi (stingray tail)",
-      "Loud noises and lights",
-      "Spread salt or ash on lower torso (prevents manananggal from reuniting)"
-    ]
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Protection rituals for pregnant women",
-        "Village watch during births",
-        "Counter-magic practices",
-        "Cautionary tales"
-      ],
-      "stories": [
-        "Aswang masquerading as neighbors",
-        "Manananggal hunting pregnant women",
-        "Salt preventing torso reunification",
-        "Village encounters and protections"
-      ],
-      "beliefs": "Deep-rooted genuine fear in rural communities. Protective measures taken seriously, especially around pregnant women and children."
-    },
-    "cultural_sensitivity": {
-      "note": "⚠️ CULTURAL SENSITIVITY: Aswang beliefs are part of living Filipino folk tradition. These are not merely entertainment but reflect genuine cultural fears and protective practices.",
-      "respect_guidelines": "Approach with cultural sensitivity. Avoid mockery of beliefs held by Filipino communities. Recognize protective practices as meaningful cultural traditions."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Filipino folklore collections",
-        "Modern horror novels",
-        "Children's cautionary tales"
-      ],
-      "film_tv": [
-        "Aswang (1992)",
-        "Shake, Rattle & Roll series",
-        "Numerous Filipino horror films",
-        "TV series episodes"
-      ],
-      "other": [
-        "Tourist attractions in Capiz and Siquijor",
-        "Cultural festivals",
-        "Academic folklore studies"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "theories": {
-    "folkloric": [
-      {
-        "name": "Evil shapeshifter",
-        "description": "Supernatural evil entity that preys on vulnerable humans",
-        "evidence_cited": ["Consistent folklore patterns", "Cultural continuity"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Social control mechanism",
-        "description": "Folklore used to enforce social norms and protect vulnerable populations",
-        "evidence_cited": ["Protection focus on pregnant women", "Community cohesion"]
-      },
-      {
-        "name": "Medical misunderstanding",
-        "description": "Explanations for infant mortality, miscarriages, and mysterious illnesses",
-        "evidence_cited": ["Historical medical conditions", "Pre-modern healthcare"]
-      }
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "ramos-1969",
-      "type": "book",
-      "title": "Creatures of Philippine Lower Mythology",
-      "authors": ["Maximo D. Ramos"],
-      "date": "1969",
-      "description": "Comprehensive study of Philippine supernatural beings"
-    },
-    {
-      "id": "spanish-colonial",
-      "type": "historical",
-      "title": "Spanish Colonial Records",
-      "date": "16th-19th century",
-      "description": "Early written documentation of aswang beliefs"
-    }
-  ]
+  "sources": []
 }
