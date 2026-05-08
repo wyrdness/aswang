@@ -1,313 +1,186 @@
 # Aswang
 
-> *"By day, your neighbor. By night, your nightmare."*
+> The aswang is an umbrella term for a complex of shape-shifting evil creatures in Filipino folklore — among the most feared supernatural beings in the Philippines — that live as ordinary humans by day and become predatory monsters by night.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `aswang` |
-| **Category** | SHAPESHIFTER_UNDEAD |
-| **Classification** | Filipino Vampire / Shapeshifter |
-| **First Recorded** | Pre-colonial (oral traditions) |
-| **Primary Region** | Philippines (Visayas, Mindanao, Luzon) |
-| **Status** | Active |
+| **Category** | SHAPESHIFTER |
+| **Subcategory** | Shapeshifting predator / folkloric monster complex |
+| **First recorded** | 16th century |
+| **Primary range** | Aswang belief is widespread across the Philippine archipelago, with the highest concentration of tradition in the Visayas region, particularly the province of Capiz in Panay Island (historically called the 'aswang capital') |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-The aswang is one of the most feared creatures in Philippine folklore, a shapeshifting being that lives as a human during the day but becomes a monstrous predator at night.
-
-Aswang exist in multiple forms across different Philippine regions: **blood-suckers**, **viscera suckers**, **weredogs**, **witches**, and **ghouls**. They possess abilities including shapeshifting into dogs, pigs, or birds, **sound reversal** (appearing far when close), and in some variants, the ability to **detach their upper torso** to fly.
-
-Aswang particularly target pregnant women and their unborn children, feeding through a long, hollow, **proboscis-like tongue**. The aswang remains a source of genuine fear in rural Philippine communities and represents deep-rooted cultural beliefs.
-
-> ⚠️ **CULTURAL SENSITIVITY**: Aswang beliefs are part of living Filipino folk tradition. These are not merely entertainment but reflect genuine cultural fears and protective practices.
+The aswang is not a single creature but an umbrella term covering at least five distinct supernatural categories in Filipino folk belief, as systematized by folklorist Maximo D. Ramos: vampires (blood-drinkers who attack through thin walls or under floorboards), viscera suckers (the manananggal, which separates its upper torso and flies on bat-like wings, draining unborn children through a long hollow tongue), weredogs (humans who transform into canines, pigs, or cats), witches (who use illness-causing concoctions and possess eyes that reflect images upside-down), and ghouls (who consume corpse flesh). Spanish colonial documents from the 16th century record the aswang as the most feared creature in Philippine folk belief. Regional variants are prominent across the Visayas (especially the province of Capiz in Panay Island, considered the aswang's traditional homeland), southern Luzon, and parts of Mindanao. The aswang inverts Filipino social values: it infiltrates communities through feigned normalcy, preferentially targets pregnant women and unborn children, and severs the kinship bonds central to Philippine culture. Scholars have proposed that the genetic disorder X-linked dystonia parkinsonism (XDP), endemic to Panay, may have contributed to aswang belief through its visible symptoms of bodily contortion. Aswang belief remains a source of genuine cultural fear in some rural Philippine communities and is not merely a literary or entertainment tradition.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Manananggal | Filipino / Visayas / Luzon | That which separates itself — refers to the self-segmenting viscera-sucker variant |
+| Tik-Tik | Filipino / Visayas | Named for the ticking sound the creature makes; sound grows louder when the creature is far away and softer when close |
+| Wak-Wak | Filipino / Mindanao / Visayas | Named for a bird-like cry; a variant that appears as a bird at night |
+| Sigbin | Visayan / Visayas | A nocturnal creature variant said to walk backward |
+| Asuang | Bikol / Bicol region, Luzon | Variant spelling and regional pronunciation; connected to the evil god Asuang in Bicol origin stories |
 
-### Primary Name
-- **Aswang** — Likely from Sanskrit "asura" (demon) via Malay influence. General term for various evil shapeshifting creatures in Philippine folklore.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Manananggal | Tagalog | "Self-segmenter" - detaches upper torso |
-| Tik-tik | Filipino | Named for the sound it makes |
-| Wak-wak | Visayas | Named for bat-like cry |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: SHAPESHIFTER_UNDEAD
-├── Type: Vampire/Ghoul
-├── Subtype: Shapeshifter
-└── Variant: Filipino
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Vampires](/vampires) | Similar | European blood-drinking undead |
-| [Pontianak](/pontianak) | Regional variant | Malaysian/Indonesian vampire ghost |
-| [Werewolves](/werewolves) | Similar | Shapeshifting creatures |
+- **Origin**: The term 'aswang' is documented in Spanish colonial records of the Philippines from the 16th century. One Bicol origin tradition traces the word to 'Asuang', the name of an evil god who rivaled the good god Gugurang for control of the cosmos. The exact pre-colonial etymology is not definitively established in academic sources.
+- **Meaning**: Broadly denotes a malevolent shapeshifting creature; the specific meaning varies by region and variant.
+- **First use**: 16th century in Spanish colonial documentation of Philippine indigenous beliefs
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Manananggal](../manananggal/) — _subset_: The self-segmenting viscera-sucker variant of the aswang, sometimes treated as a separate creature
+- [Penanggalan](../penanggalan/) — _similar_: Malay floating detached head vampire with similar self-segmentation motif
+- [Pontianak](../pontianak/) — _similar_: Malay/Indonesian female vampiric spirit with overlapping characteristics
+- [Leyak](../leyak/) — _similar_: Balinese shapeshifting sorcerer creature with overlapping characteristics
 
-### Physical Forms
+---
+## Physical Description
 
-**Human Form (Daytime)**:
-- Appears as normal human
-- Often attractive
-- Lives ordinary life among community
-- Indistinguishable from others
+- **Coloration**: variable — human appearance by day, dark or monstrous by night
+- **Morphology**: The aswang's true form is highly variable across regional traditions and type-variant. The underlying pattern is a human-presenting creature that undergoes a monstrous transformation at night, often associated with animal features (wings, claws, elongated tongue) and unnatural bodily configurations (self-segmentation).
 
-**Monster Form (Nighttime)**:
-- Long, hollow, thread-like proboscis tongue
-- Enhanced strength
-- May have wings (some variants)
-- Eyes reflect images upside-down
-
-**Animal Forms**:
-- **Dog** (most common) - large black dog
-- **Pig** - alternative transformation
-- **Bird** - bat-like flying form
-
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Proboscis tongue | Long, hollow tongue used to feed on victims | Always |
-| Inverted reflection | Eyes reflect images upside-down in mirrors | Always |
-| Detachable torso | Upper body separates to fly (manananggal) | Variant |
-| Sound reversal | Tik-tik sounds loud when far, quiet when near | Always |
+|---|---|---|
+| Human appearance by day | Aswangs live as apparently ordinary humans in their communities; they may appear beautiful or completely unremarkable | always |
+| Upside-down eye reflection | The witch (mangkukulam) variant is identified by eyes that reflect images inverted rather than normally | occasional |
+| Long hollow tongue | The manananggal / viscera-sucker variant uses a proboscis-like tongue to drain blood or organs, especially from unborn children through the walls of a house | common |
+| Self-separation of upper torso | The manananggal variant detaches its upper body from the waist down, growing bat-like wings and flying at night; the lower torso must be found and destroyed to prevent rejoining | common |
+| Shapeshifting into animals | Aswangs transform into black dogs, pigs, cats, birds, or other animals to move undetected; the weredog variant is particularly widespread | common |
+| Fear of light and loud noise | Most variants are weakened, repelled, or killed by bright light, loud sounds, garlic, salt, and certain religious objects | always |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Shapeshifting | Transform into dogs, pigs, birds | Documented |
-| Sound reversal | Sounds loud when far away, quiet when nearby | Documented |
-| Torso separation | Upper body detaches to fly (manananggal) | Documented (variant) |
-| Enhanced strength | Superhuman strength in monster form | Reported |
-| Flight | Ability to fly, especially in manananggal form | Documented |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Shapeshifting | Transformation into animals (dog, pig, cat, bird) and human forms; the central defining ability of the aswang complex | always | folklore |
+| Sound reversal | The tik-tik variant produces a sound that appears louder when the creature is farther away and quieter when it is dangerously close, deceiving potential victims | common | folklore |
+| Flight (manananggal) | The self-separating variant grows bat-like wings after detaching its upper torso and flies through the night | common | folklore |
+| Vitality drain | Various aswang types drain the life force of victims through blood consumption, organ extraction, or absorption of breath and saliva | always | folklore |
+| Disguise as community member | Aswangs are believed to live among ordinary humans undetected, infiltrating communities through marriage or residency | always | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Nocturnal (human by day, monster by night)
-- **Disposition**: Hostile
-- **Social Structure**: Solitary
-- **Habitat**: Rural villages, forest edges, among human communities
-- **Diet**: Unborn children (primary), blood, internal organs
-- **Hunting Pattern**: Targets pregnant women, feeds on fetuses
-
----
-
-## Regional Variants
-
-### By Region
-
-| Region | Characteristics |
-|--------|-----------------|
-| **Capiz Province** | Known as "Aswang Capital," strongest concentration |
-| **Visayas** | Various shapeshifting forms, wak-wak variant |
-| **Mindanao** | Regional behavioral variations |
-| **Luzon** | Manananggal variant prominent |
-| **Siquijor Island** | Associated with witchcraft practices |
-
-### Types of Aswang
-
-1. **Blood-suckers** - Vampire-like, drink blood
-2. **Viscera suckers** - Feed on internal organs
-3. **Weredog** - Shapeshifts into large black dog
-4. **Witch variant** - Uses magic and curses
-5. **Ghoul variant** - Feeds on corpses
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: rural villages, forested areas, coastal communities of the Philippine archipelago
+- **Diet**: Blood, organs (especially of unborn children and pregnant women), and corpse flesh depending on variant type
 
 ---
+## Distribution
 
-## Detection & Protection
-
-### Detection Methods
-
-| Method | Description | Reliability |
-|--------|-------------|-------------|
-| **Inverted eye reflection** | Eyes reflect images upside-down | High |
-| **Garlic and salt** | Aswang are repelled by these | Medium |
-| **Coconut oil test** | Special oil reveals aswang identity | Medium |
-| **Buntot pagi** | Dried stingray tail can detect aswang | Traditional |
-| **Sound reversal** | Tik-tik/wak-wak sounds (loud = far, quiet = near) | High |
-
-### Protection Methods
-
-- **Garlic** placed around windows and doors
-- **Salt** sprinkled on thresholds
-- **Holy items** (crosses, rosaries, blessed objects)
-- **Ginger** and **buntot pagi** (stingray tail)
-- **Loud noises and lights** to scare away
-- **Spread salt or ash on lower torso** (prevents manananggal from reuniting)
-
-### For Pregnant Women
-
-Special protective measures taken in communities:
-- Village watch during births
-- Protective herbs and amulets
-- Home blessed by priest
-- Family vigil at night
-
----
-
-## Geographic Distribution
-
-### Primary Range
-
-Throughout the Philippines with regional variations in form and behavior.
+Aswang belief is widespread across the Philippine archipelago, with the highest concentration of tradition in the Visayas region, particularly the province of Capiz in Panay Island (historically called the 'aswang capital'). Variants are also prominent in southern Luzon and parts of Mindanao.
 
 ### Hotspots
 
-| Location | Significance |
-|----------|--------------|
-| **Capiz Province** | Known as the "Aswang Capital of the Philippines" |
-| **Siquijor Island** | Associated with witchcraft and aswang activity |
-| **Western Visayas** | High concentration of folklore and reports |
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Capiz Province, Panay Island | Western Visayas, Philippines |  |  |
 
 ---
-
 ## Historical Timeline
 
-| Period | Event | Significance |
-|--------|-------|--------------|
-| Pre-1500s | Pre-colonial oral traditions | Aswang beliefs in indigenous cultures |
-| 1589 | Spanish colonial documentation | First written accounts by missionaries |
-| 20th century | Modern folklore consolidation | Stories collected and published |
-| 1990s-present | Popular culture boom | Filipino films and TV featuring aswang |
+| Date | Event | Significance |
+|---|---|---|
+| 16th century | Spanish colonial missionaries document the aswang as the most feared creature in Philippine folk belief | Earliest written record; establishes continuity of the tradition from pre-colonial period |
+| 1971 | Folklorist Maximo D. Ramos publishes systematic classification of the aswang into five types in 'Creatures of Philippine Lower Mythology' | Foundational academic systematization of aswang variants |
+| 1992 | 'Shake, Rattle & Roll' horror anthology film series begins featuring aswang stories, cementing the creature in Philippine popular cinema | Marks mainstream popularization of aswang in Philippine horror film |
+
+## Evidence
+
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Ramos five-category taxonomy of aswang | 1971 | Maximo D. Ramos' systematic classification of the aswang into five types (vampire, viscera sucker, weredog, witch, ghoul) in 'Creatures of Philippine Lower Mythology', representing the foundational academic framework for aswang study. | verified |
 
 ---
+## Theories & Explanations
 
-## Cultural Significance
+### Paranormal / Cryptozoological
 
-### Community Beliefs
+**Supernatural predatory entities** _(Traditional Filipino folk belief communities, particularly in rural Visayas)_
 
-- **Genuine fear** in rural Philippines
-- Protective measures taken seriously
-- **Pregnant women** receive special protection
-- **Community cohesion** through shared vigilance
+Within the belief system of many Philippine communities, aswangs are understood as real supernatural beings — shapeshifting predators with genuine capacity for harm — rather than metaphorical or purely narrative constructs.
 
-### Social Function
+### Scientific
 
-- Enforces protective behaviors around pregnancy
-- Community watch during vulnerable times
-- Cultural explanation for infant mortality
-- Social control mechanism
+**X-linked dystonia parkinsonism (XDP) as inspiration** _(Medical anthropology researchers studying XDP in Panay)_
 
-### Modern Context
+Scholars have proposed that X-linked dystonia parkinsonism (XDP), a genetic disorder endemic to Panay Island affecting approximately 93% of known cases, may have contributed to aswang legends through its visible symptoms of involuntary bodily contortions, protruding tongue, and abnormal movements — consistent with aswang physical descriptions.
 
-- **Urban legends** persist in cities
-- **Horror film** staple
-- **Tourism** element (Capiz, Siquijor)
-- **Academic folklore** study subject
+### Skeptical
 
----
+**Social control and community policing function** _(Folklorists including Maximo D. Ramos, Anthropologists studying Philippine folk belief)_
+
+Aswang belief functions as a mechanism of social control: it reinforces community norms, explains illness and misfortune, and provides a framework for attributing blame to social outsiders or deviants. Accusations of aswang identity have historically been used against marginalized individuals.
+
+
+## Indigenous Perspectives
+
+> ⚠️ **Aswang belief is part of living Filipino folk tradition in many communities. Historical accusations of aswang identity have caused real harm to accused individuals. Researchers should approach this tradition with care, avoiding sensationalism and respecting community members' genuine beliefs.**
+
+**Cultures**: Visayan peoples, Tagalog peoples, Bicol peoples, Mindanao lowland cultures
+
+The aswang is a central figure in pre-colonial Philippine cosmology and folk religion, predating Spanish colonization. It embodies inversions of core Philippine social values: kinship, community, proper gender roles, and respect for the dead. Aswang belief informed pre-colonial healing practices and community protective rituals.
+
+_Guidelines: Do not treat aswang belief as mere entertainment without acknowledging its role in living Philippine cultural tradition. Engage with Filipino scholarly sources. Do not appropriate or mock protective practices rooted in genuine community belief._
 
 ## Popular Culture
 
-### Film & Television
+**Literature**: Maximo D. Ramos, 'Creatures of Philippine Lower Mythology' (1971); Damiana Eugenio, 'Philippine Folk Literature' series
 
-- **Aswang** (1992) - seminal Filipino horror film
-- **Shake, Rattle & Roll** series - features aswang episodes
-- Numerous Filipino horror films and TV shows
-- Documentary features
+**Film / TV**: Shake, Rattle & Roll horror anthology series (Philippine cinema, 1984–present); Tiktik: The Aswang Chronicles (2012, Philippine film); Surviving Evil (2009, international co-production); Trese (Netflix animated series, 2021) — features aswang and other Philippine supernatural beings
 
-### Literature
-
-- Filipino folklore collections
-- Modern horror novels
-- Children's cautionary tales
-- Academic studies
+**Other**: The Aswang Project — a documentary and research platform dedicated to Philippine mythology and the aswang in particular
 
 ---
+## Research
 
-## Theories & Explanations
+### Researchers
 
-### Folkloric Interpretation
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Maximo D. Ramos | Philippine folklorist | Established the foundational five-category taxonomy of aswang variants in 'Creatures of Philippine Lower Mythology' (1971) | 1960s–1970s |
+| Damiana Eugenio | University of the Philippines | Comprehensive documentation of Philippine folk literature including aswang traditions | 1980s–2000s |
 
-**Evil shapeshifter**: Supernatural entity that preys on vulnerable humans, particularly pregnant women and infants.
+### Organizations
 
-### Skeptical Explanations
+- [The Aswang Project](https://www.aswangproject.com) — Documentary research and archiving of Philippine mythology, with particular focus on the aswang complex
 
-1. **Social control mechanism**: Folklore enforcing protective behaviors and community vigilance
-2. **Medical misunderstanding**: Cultural explanation for infant mortality, miscarriages, and mysterious illnesses in pre-modern times
-3. **Community cohesion**: Shared beliefs creating protective social structures
-
----
-
-## Research Guidelines
-
-### Cultural Sensitivity
-
-> ⚠️ **IMPORTANT**: Approach with cultural sensitivity. Avoid mockery of beliefs held by Filipino communities.
-
-**Respect Guidelines**:
-- Recognize protective practices as meaningful cultural traditions
-- Understand genuine fear in many communities
-- Do not trivialize beliefs as "superstition"
-- Consult Filipino cultural experts
-- Respect regional variations and local knowledge
+Ongoing academic work in Philippine folklore studies continues to document regional aswang variants and the social functions of aswang belief. Medical anthropology research explores possible biological bases for specific aswang traits in the Panay endemic XDP disorder.
 
 ---
+## Sources
 
-## API Reference
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Machine-readable data is available in [`api.json`](api.json).
 
-### Data Access
+## How to Report a Sighting
 
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const aswang = await wyrd.getPhenomenon('aswang');
-```
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Ramos, M.D. (1969). *Creatures of Philippine Lower Mythology*
-- Spanish Colonial Records (16th-19th century)
-- Filipino oral traditions
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
